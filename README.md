@@ -17,6 +17,8 @@ available in the [release files](https://github.com/eternalTech-ai/detwin-memory
 
 ## Install and enable local analysis
 
+Before upgrading, choose **Quit** in the existing app's system tray/menu bar. Closing its window can leave background monitoring running.
+
 1. Open the EXE on Windows, or open the PKG on Mac and follow Installer.
    On Mac, start DeTwin Memory Check from Applications afterward.
 2. Authorize the detected local histories you want inspected.
